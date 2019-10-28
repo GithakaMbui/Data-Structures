@@ -37,6 +37,7 @@ function Stack() {
     this.print = function(){
         console.log(items.toString());
     };
+    
         
 }
 
